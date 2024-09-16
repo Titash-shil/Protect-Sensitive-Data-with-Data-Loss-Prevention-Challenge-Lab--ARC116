@@ -8,11 +8,7 @@
 export BUCKET_NAME=
 ```
 
-
 ```
-
-
-
 gcloud auth list
 
 gcloud config set project $DEVSHELL_PROJECT_ID
@@ -65,7 +61,7 @@ echo "Click here to open the link https://console.cloud.google.com/security/sens
 
 ```
 
-## - Follow next steps carefully from the video 
+- ## Follow next steps carefully from the video 
 
 # Congratulations ..!!🎉  You completed the lab shortly..😃💯
 
